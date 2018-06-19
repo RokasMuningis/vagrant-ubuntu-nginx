@@ -1,0 +1,5 @@
+/.vagrant
+/tmp
+/app/assets/
+
+*.log
